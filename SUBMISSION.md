@@ -9,13 +9,17 @@
 - `SUBMISSION.md`
 - `WALKTHROUGH_VIDEO_URL.txt`
 
+## Google Drive Folder
+
+https://drive.google.com/drive/folders/17_m6U7CsGezLOUy04aUzvxg4oNe8GFYb?usp=sharing
+
 ## Live Product URL
 
 https://ai-native-full-stack-developer-assignment.onrender.com/
 
 ## Walkthrough Video
 
-Pending recording.
+https://drive.google.com/file/d/1nmm9_FUA9bnsCFms5oIjLK3dto61pk_9/view?usp=sharing
 
 ## Reviewer Accounts
 
@@ -37,8 +41,6 @@ Pending recording.
 
 ## Incomplete or Deferred
 
-- Public deployment URL
-- Walkthrough video URL
 - Real-time collaboration
 - Comments and suggestion mode
 - Version history
@@ -46,7 +48,6 @@ Pending recording.
 
 ## Next 2-4 Hours
 
-- Deploy to a Node host with persistent disk storage
-- Record the 3-5 minute walkthrough
+- Add persistent disk storage or move persistence to a hosted database
 - Add autosave and document version history
 - Add edit/view permission roles
