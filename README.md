@@ -2,6 +2,10 @@
 
 A lightweight collaborative document editor built for the Ajaia full-stack assignment. It supports document creation, rich-text editing, save/reopen persistence, file import, and simple owner-based sharing with seeded users.
 
+## Live Demo
+
+https://ai-native-full-stack-developer-assignment.onrender.com/
+
 ## Stack
 
 - React + Vite client
